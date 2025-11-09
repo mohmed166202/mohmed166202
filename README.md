@@ -1,94 +1,91 @@
-<!-- Banner / GIF -->
+<!-- Intro GIF -->
 <div align="center">
-  <img src="/mnt/data/68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f764371704c37783473505541414141642f7468616e6f732d66696e652d696c6c2d646f2d69742d6d7973656c662e676966.gif" width="500"/>
+  <img src="https://media1.tenor.com/m/vCqpL7x4sPUAAAAd/thanos-fine-ill-do-it-myself.gif" width="500"/>
 </div>
 
-<h1 align="center">Hey 👋, I'm Mohamed Essam</h1>
+<h1 align="center">Hi, I'm Mohamed Essam</h1>
 
-<div align="center">
-  
-**"Why do I do what I do? Because no one else would."**
-
-</div>
+<p align="center"><i>"Why do I do what I do? Because no one else would."</i></p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I’m an **AI Engineer & Data Scientist** specializing in **LLMs, RAG systems, scalable backend AI, and production-grade ML pipelines**.  
-I aim to build **real-world AI systems** that deliver **speed, efficiency, and business value**.
+I am an **AI Engineer & Data Scientist** focused on building **production-ready, scalable AI systems** leveraging **LLMs, RAG, FastAPI, and modern cloud workflows**.  
+I thrive at the intersection of **AI + backend + infrastructure**, delivering systems that are **accurate, optimized, and reliable**.
 
-- 🔭 Currently: **AI Engineer @ Code Cruze**
-- ⚙️ Specializing in **LLM Apps • RAG • FastAPI • Vector DBs • LangChain**
-- ☁️ Deploying scalable AI using **Docker • AWS • CI/CD**
-- 📍 Based in: **Cairo, Egypt**
-- 💡 Always exploring **LLMOps, distributed systems & GPU acceleration**
-
----
-
-## 🧠 What I Do Best
-
-✅ Build RAG-Powered AI Systems (Qdrant, LangChain, embeddings)  
-✅ LLM fine-tuning + domain adaptation  
-✅ FastAPI backend for production inference  
-✅ Containerized deployments (Docker + AWS)  
-✅ Multiprocessing + AsyncIO for high-throughput systems  
-✅ Real-time analytics + workflow automation  
-✅ Social media NLP & classification models  
+- 💼 AI Engineer — Code Cruze
+- 🔍 Focus: LLM Systems • AI Backend • RAG
+- ⚙️ Passion: Turning prototypes into **real-world production**
+- 🌍 Cairo, Egypt
 
 ---
 
-## 📊 Strength Analysis (Based on Resume)
+## 🧠 Strength Summary
 
-### ✅ **Your Top Strengths**
-- **Strong LLM engineering experience** (RAG, embeddings, deployment)
-- **Backend + AI combo** → FastAPI + MongoDB/MySQL
-- **Industry experience** deploying GPU + cloud workloads
-- **Performance optimizations** (6× throughput, GPU utilization ↑)
-- **Experience leading AI backend work — fast learning**
-- **Diverse project set → Bots, classification, CV, analytics, optimization**
-- **Automations with n8n + monitoring**
-- **Good practical cloud + Docker understanding**
+✔ Strong delivery experience with **LLMs + RAG**  
+✔ Solid backend foundation using **FastAPI + vector DBs + async stacks**  
+✔ Proven record of **cloud deployment (AWS + Docker)**  
+✔ Demonstrated execution across **modeling → deployment → monitoring**  
+✔ Performance tuning: Multiprocessing + GPU utilization ↑  
+✔ Experience leading AI backend for enterprise analytics  
 
-### 🔥 Traits That Stand Out
-- You’re not just an ML builder — you deliver **production & scalable AI**
-- You work across **data → modeling → deployment → optimization**
-- Strong hands-on projects across industries: **Retail, Social Media, Healthcare**  
-- Early-career but high exposure + measurable impact  
-
-Your profile aligns with **top AI backend roles** like:  
-LLM Engineer, AI Backend Developer, Machine Learning Engineer, Data Engineer (AI)
+📌 **Combined AI + backend + DevOps skill makes you highly competitive**  
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience Highlights
 
-| Domain | Tools |
-|--------|-------|
-| Languages | Python • C++ • SQL |
-| AI/ML | PyTorch • Hugging Face • Transformers • LangChain • RAG • CV • NLP |
-| Backend | FastAPI • AsyncIO • REST APIs • Microservices |
+### 🔹 AI Backend Lead — DI-BE (Remote)
+- Led AI backend for social media analytics (Arabic NLP → 95% accuracy)
+- Implemented **RAG + embeddings + Qdrant**
+- Throughput ↑ 6× using **multiprocessing + asyncio**
+- Automated pipelines w/ **n8n**, reduced manual ops 60%
+- Deployed + monitored w/ Docker & Prometheus
+
+### 🔹 AI Engineer — Code Cruze
+- Delivered LLM pipelines (fine-tuning, RAG, context-aware gen)
+- Integrated generative AI with **MySQL + REST APIs**
+- Built scalable cloud deployments via **Docker + AWS**
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Enterprise Social Analytics**
+> Full pipeline: ingestion → RAG retrieval → inference → alerting  
+Tech: FastAPI • MongoDB • Qdrant • Ollama  
+
+🔹 **Printrado NLP Chatbot**
+> Semantic search + AWS deployment  
+Tech: Python • MySQL • Docker  
+
+🔹 **Fawry Branch Optimization**
+> KDTree → mins → seconds  
+Tech: Python • Pandas  
+
+🔹 **VetHub (A-Grade GP)**
+> Q/A + CV disease prediction  
+Tech: Python • NLP • CV  
+
+More → https://github.com/mohmed166202  
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Tools |
+|---------|-------|
+| AI/ML | PyTorch • Transformers • HuggingFace • RAG • CV • NLP |
+| Backend | FastAPI • AsyncIO • REST • Microservices |
 | Databases | MongoDB • MySQL • Qdrant • Redis |
-| DevOps | Docker • AWS (EC2, S3, Lambda) • Prometheus |
-| Distributed / Perf | Multiprocessing • CUDA • Model Sharding • GPU Optimization |
-| Tools | VS Code • PyCharm • Git • Power BI |
+| Cloud / DevOps | Docker • AWS (EC2, S3, Lambda) • Prometheus |
+| Performance | Multiprocessing • Model Sharding • GPU Optimization |
+| Languages | Python • C++ • SQL |
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Enterprise Social Analytics** | Real-time alerts, NLP classification (95% accuracy), RAG + embeddings | FastAPI • MongoDB • Qdrant • Ollama |
-| **Printrado NLP Chatbot** | Customer service automation w/ semantic search, AWS deployment | Python • MySQL • Docker • AWS |
-| **Fawry Branch Optimization** | KD-tree spatial optimization → query time mins → secs | Python • Pandas |
-| **VetHub GP (Grade A)** | CV + NLP pipeline for veterinary diagnosis + Q/A | Python • NLP • CV |
-
-> 🔎 More here → **https://github.com/mohmed166202**
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
   
@@ -99,19 +96,28 @@ LLM Engineer, AI Backend Developer, Machine Learning Engineer, Data Engineer (AI
 
 ---
 
-## 📬 Connect
+## 📄 Resume + Links
 
-📄 **Resume:** [View](/mnt/data/mohmed_essam_resume2025.pdf)  
-🌐 **Portfolio:** https://mohmed166202.github.io  
-💼 **LinkedIn:** https://linkedin.com/in/mohmed-essam-a5630a228  
-🐙 **GitHub:** https://github.com/mohmed166202  
-📧 **Email:** mohmedessam166202@gmail.com  
+📄 **Résumé:**  
+[Download Résumé](/mnt/data/mohmed_essam_resume2025.pdf)
+
+🔗 **Portfolio:**  
+https://mohmed166202.github.io  
+
+🔗 **LinkedIn:**  
+https://linkedin.com/in/mohmed-essam-a5630a228  
+
+🐙 **GitHub:**  
+https://github.com/mohmed166202  
+
+📧 **Email:**  
+mohmedessam166202@gmail.com  
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving my repos a star!
+⭐️ If you found my work interesting, feel free to star a repository!
 
 </div>
 
