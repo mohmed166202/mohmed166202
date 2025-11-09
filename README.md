@@ -1,76 +1,57 @@
-<!-- Profile README for Mohamed Essam -->
-
 <h1 align="center">Hi, I'm Mohamed Essam</h1>
 
 <p align="center"><i>"Why do I do what I do? Because no one else would."</i></p>
 
-<!-- GIF under the quote -->
+<!-- GIF -->
 <div align="center">
-  <img src="./thanos.gif" width="500" alt="Thanos GIF - Fine, I'll do it myself"/>
+  <img src="./68747470733a2f2f6d65646961312e74656e6f722e636f6d2f6d2f764371704c37783473505541414141642f7468616e6f732d66696e652d696c6c2d646f2d69742d6d7973656c662e676966.gif" width="500" alt="Thanos GIF"/>
 </div>
 
 ---
 
 ## 👋 About Me
 
-I am an **AI Engineer & Data Scientist** focused on building **production-ready, scalable AI systems** leveraging **LLMs, RAG, FastAPI, and modern cloud workflows**.  
-I thrive at the intersection of **AI + backend + infrastructure**, delivering systems that are **accurate, optimized, and reliable**.
+I am an **AI Engineer & Data Scientist** focused on building **production-ready, scalable AI systems** leveraging **LLMs, RAG, FastAPI, and cloud-native deployment**.  
+I combine AI modeling with backend & infrastructure to deliver **accurate, optimized, and reliable systems**.
 
 - 💼 AI Engineer — Code Cruze  
-- 🔍 Focus: LLM Systems • AI Backend • RAG  
-- ⚙️ Passion: Turning prototypes into **real-world production**  
-- 🌍 Cairo, Egypt
+- 🔍 Areas: LLM Systems • AI Backend • RAG  
+- ⚙️ Passion: Turning prototypes into **real-world production**
+- 🌍 Cairo, Egypt  
 
 ---
 
-## 🧠 Strength Summary
-
-✔ Strong delivery experience with **LLMs + RAG**  
-✔ Solid backend foundation using **FastAPI + vector DBs + async stacks**  
-✔ Proven record of **cloud deployment (AWS + Docker)**  
-✔ Demonstrated execution across **modeling → deployment → monitoring**  
-✔ Performance tuning: Multiprocessing + GPU utilization ↑  
-✔ Experience leading AI backend for enterprise analytics  
-
-📌 **Combined AI + backend + DevOps skill makes you highly competitive**
-
----
-
-## 💼 Experience Highlights
+## 💼 Experience
 
 ### 🔹 AI Backend Lead — DI-BE (Remote)
-- Led AI backend for social media analytics (Arabic NLP → 95% accuracy)  
-- Implemented **RAG + embeddings + Qdrant**  
-- Throughput ↑ 6× using **multiprocessing + asyncio**  
-- Automated pipelines w/ **n8n**, reduced manual ops 60%  
-- Deployed + monitored w/ Docker & Prometheus
+- Built enterprise social analytics platform (Arabic NLP → 95% accuracy)
+- Implemented RAG + embeddings (+ Qdrant)
+- 6× throughput boost using multiprocessing + asyncio
+- Automated workflows with n8n → reduced manual ops 60%
+- Monitored & deployed with Docker, Prometheus
 
 ### 🔹 AI Engineer — Code Cruze
-- Delivered LLM pipelines (fine-tuning, RAG, context-aware generation)  
-- Integrated generative AI with **MySQL + REST APIs**  
-- Built scalable cloud deployments via **Docker + AWS**
+- Developed full LLM pipelines (fine-tuning, RAG, CAG)
+- Integrated AI with MySQL + REST APIs
+- Deployed scalable AI via Docker + AWS
 
 ---
 
 ## 🚀 Featured Projects
 
 🔹 **Enterprise Social Analytics**  
-> Full pipeline: ingestion → RAG retrieval → inference → alerting  
-Tech: FastAPI • MongoDB • Qdrant • Ollama
+Tech: FastAPI • MongoDB • Qdrant • Ollama  
 
 🔹 **Printrado NLP Chatbot**  
-> Semantic search + AWS deployment  
-Tech: Python • MySQL • Docker
+Tech: Python • MySQL • Docker  
 
 🔹 **Fawry Branch Optimization**  
-> KDTree → mins → seconds  
-Tech: Python • Pandas
+Tech: Python • KDTree • Pandas  
 
 🔹 **VetHub (A-Grade GP)**  
-> Q/A + CV disease prediction  
-Tech: Python • NLP • CV
+Tech: Python • NLP • CV  
 
-More → https://github.com/mohmed166202
+More → https://github.com/mohmed166202  
 
 ---
 
